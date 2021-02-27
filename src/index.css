@@ -79,3 +79,8 @@ body {
   width: 700px;
   margin: auto;
 }
+
+.wallet-form {
+  grid-row: 5;
+  grid-column: 4/-4;
+}
